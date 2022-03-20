@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice_3_2</string>
+    <string name="underfined">Автоопределение</string>
+    <string name="web">Веб-адрес</string>
+    <string name="geo_point">Геоточка</string>
+    <string name="phone">Телефон</string>
+    <string name="call">Вызвать</string>
+</resources>
